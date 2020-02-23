@@ -1,8 +1,12 @@
-$('.slider').owlCarousel({
-            items: 1,
-            singleItem:true,
-            nav: true,
-            dots: false,
+
+
+$(document).ready(function(){
+  $(".slider").owlCarousel({
+            items: 6,
+            dots: true,
             loop: true,
-            autoPlay: 3000
+        
+
+
         });
+});
