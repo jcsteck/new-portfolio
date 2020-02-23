@@ -1,3 +1,7 @@
+.slider-nav {
+  color: green;
+}
+
 .dm-width {
   width: 500px;
   margin: 0 auto;
@@ -25,7 +29,11 @@
   height: 100%;
   -webkit-background-size: 100% 100%;
   background-repeat: no-repeat;
+<<<<<<< HEAD
+  background-image: url(../../assets/img/IGfilters/iphoneX_mockup.png);
+=======
   background-image: url(assets/img/iPhoneX.png);
+>>>>>>> 436cd8ee41f432033fc27d70ddba4703dfaac7fe
   background-size: cover;
   background-position: center center;
 }
@@ -57,18 +65,27 @@
 }
 
 .slider__item--1 {
-  background-color: #E91E63;
+  background-color: #000000;
 }
 
 .slider__item--2 {
-  background-color: #2196F3;
+  background-color: #000000;
 }
 
 .slider__item--3 {
-  background-color: #4CAF50;
+  background-color: #000000;
 }
 
 .slider__item--4 {
-  background-color: #FFC107;
+  background-color: #000000;
+}
+
+.slider .slider-prev, .slider .slider-nav .slider-next, .slider .slider-dot {
+  cursor: pointer;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
 }
 
