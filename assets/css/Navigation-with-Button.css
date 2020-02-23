@@ -47,7 +47,7 @@
 }
 
 .navigation-clean-button.navbar-light .navbar-nav a.active, .navigation-clean-button.navbar-light .navbar-nav a.active:focus, .navigation-clean-button.navbar-light .navbar-nav a.active:hover {
-  color: #8f8f8f;
+  color: #000000;
   box-shadow: none;
   background: none;
   pointer-events: none;
