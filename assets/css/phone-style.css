@@ -29,7 +29,11 @@
   height: 100%;
   -webkit-background-size: 100% 100%;
   background-repeat: no-repeat;
+<<<<<<< HEAD
   background-image: url(../../assets/img/IGfilters/iphoneX_mockup.png);
+=======
+  background-image: url(assets/img/iPhoneX.png);
+>>>>>>> 436cd8ee41f432033fc27d70ddba4703dfaac7fe
   background-size: cover;
   background-position: center center;
 }
