@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 .slider-nav {
   color: green;
 }
@@ -30,11 +29,7 @@
   height: 100%;
   -webkit-background-size: 100% 100%;
   background-repeat: no-repeat;
-<<<<<<< HEAD
   background-image: url(../../assets/img/IGfilters/iphoneX_mockup.png);
-=======
-  background-image: url(assets/img/iPhoneX.png);
->>>>>>> 436cd8ee41f432033fc27d70ddba4703dfaac7fe
   background-size: cover;
   background-position: center center;
 }
@@ -90,96 +85,3 @@
   user-select: none;
 }
 
-=======
-.slider-nav {
-  color: green;
-}
-
-.dm-width {
-  width: 500px;
-  margin: 0 auto;
-}
-
-.iphone-mockup {
-  position: relative;
-  z-index: 5;
-}
-
-.dm-device {
-  position: relative;
-  width: 100%;
-  padding-bottom: 203.477897%;
-  margin-bottom: 20px;
-}
-
-.device {
-  position: absolute;
-  top: 0;
-  bottom: 0;
-  left: 0;
-  right: 0;
-  width: 100%;
-  height: 100%;
-  -webkit-background-size: 100% 100%;
-  background-repeat: no-repeat;
-<<<<<<< HEAD
-  background-image: url(../../assets/img/IGfilters/iphoneX_mockup.png);
-=======
-  background-image: url(assets/img/iPhoneX.png);
->>>>>>> 436cd8ee41f432033fc27d70ddba4703dfaac7fe
-  background-size: cover;
-  background-position: center center;
-}
-
-.screen {
-  overflow: hidden;
-  position: absolute;
-  top: 18.1%;
-  bottom: 20.6%;
-  left: 12.49%;
-  right: 17.4%;
-  background-color: #000000;
-}
-
-.slider {
-  height: 100%;
-}
-
-.slider div {
-  height: 100%;
-}
-
-.slider__item {
-  font-size: 100px;
-  color: rgba(255,255,255,0.7);
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-
-.slider__item--1 {
-  background-color: #000000;
-}
-
-.slider__item--2 {
-  background-color: #000000;
-}
-
-.slider__item--3 {
-  background-color: #000000;
-}
-
-.slider__item--4 {
-  background-color: #000000;
-}
-
-.slider .slider-prev, .slider .slider-nav .slider-next, .slider .slider-dot {
-  cursor: pointer;
-  -webkit-user-select: none;
-  -khtml-user-select: none;
-  -moz-user-select: none;
-  -ms-user-select: none;
-  user-select: none;
-}
-
->>>>>>> 5f7e6a8edfc8d7211a54c6ea26c2345e7b2b0ab2
