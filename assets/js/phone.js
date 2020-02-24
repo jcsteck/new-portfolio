@@ -1,22 +1,9 @@
 
-
-$(document).ready(function(){
-  $(".slider").owlCarousel({
-            items: 6,
-            dots: true,
+  $(".slider").owlCarousel(
+            items: 3,
+            singleItem:true,
+            nav: true,
+            dots: false,
             loop: true,
-        
-
-
-        });
-});
-$(document).ready(function(){
-  $.fancybox({
-            items: 6,
-            dots: true,
-            loop: true,
-        
-
-
-        });
-});
+            autoPlay: 3000
+  );
