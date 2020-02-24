@@ -44,7 +44,8 @@
   left: 0;
   width: 100%;
   z-index: 1100;
-  display: none;
+  display: block;
+  background-color: black;
 }
 
 #fancybox-tmp {
@@ -69,7 +70,7 @@
   position: relative;
   width: 100%;
   height: 100%;
-  background: #fff;
+  background: black;
 }
 
 #fancybox-content {
