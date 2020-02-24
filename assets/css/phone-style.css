@@ -14,7 +14,7 @@
 
 .dm-device {
   position: relative;
-  width: 100%;
+  width: 115%;
   padding-bottom: 203.477897%;
   margin-bottom: 20px;
 }
@@ -23,11 +23,11 @@
   position: absolute;
   top: 0;
   bottom: 0;
-  left: 10px;
+  left: 0;
   right: 0;
-  width: 120%;
+  width: 95%;
   height: 100%;
-  -webkit-background-size: 100% 110%;
+  -webkit-background-size: 100% 100%;
   background-repeat: no-repeat;
   background-image: url(../../assets/img/IGfilters/iphone2.png);
   background-size: cover;
