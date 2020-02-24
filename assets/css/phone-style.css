@@ -1,15 +1,11 @@
-.slider-nav {
-  color: green;
-}
-
 .dm-width {
-  width: 700px;
+  width: 500px;
   margin: 0 auto;
 }
 
 .iphone-mockup {
   position: relative;
-  z-index: 6;
+  z-index: 5;
 }
 
 .dm-device {
@@ -37,11 +33,11 @@
 .screen {
   overflow: hidden;
   position: absolute;
-  top: 10.5%;
-  bottom: 16%;
-  left: 9%;
-  right: 9%;
-  background-color: #000000;
+  top: 11%;
+  bottom: 16.8%;
+  left: 9.3%;
+  right: 10%;
+  background-color: #E91E63;
 }
 
 .slider {
@@ -61,30 +57,18 @@
 }
 
 .slider__item--1 {
-  background-color: #b31919;
+  background-color: #E91E63;
 }
 
 .slider__item--2 {
-  background-color: #21936a;
+  background-color: #2196F3;
 }
 
 .slider__item--3 {
-  background-color: #1d0956;
+  background-color: #4CAF50;
 }
 
 .slider__item--4 {
-  background-color: #000000;
-}
-
-.slider .slider-prev, .slider .slider-nav .slider-next, .slider .slider-dot {
-  cursor: pointer;
-  -webkit-user-select: none;
-  -khtml-user-select: none;
-  -moz-user-select: none;
-  -ms-user-select: none;
-  user-select: none;
-}
-
-.owl-carousel.owl-theme.owl-loaded {
+  background-color: #FFC107;
 }
 

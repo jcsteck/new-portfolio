@@ -1,9 +1,23 @@
 
-  $(".slider").owlCarousel(
-            items: 3,
-            singleItem:true,
-            nav: true,
-            dots: false,
+
+$(document).ready(function(){
+  $(".slider").owlCarousel  ({
+            items: 6,
+            singleItem:true,
+            dots: true,
             loop: true,
-            autoPlay: 3000
-  );
+        
+
+
+        });
+});
+$(document).ready(function(){
+  $.fancybox({
+            items: 6,
+            dots: true,
+            loop: true,
+        
+
+
+        });
+});
