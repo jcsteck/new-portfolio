@@ -1,10 +1,3 @@
-.ig-embed {
-  height: 100%;
-  display: block;
-  width: 100%;
-  position: fixed;
-}
-
 .slider-nav {
   color: green;
 }
@@ -23,14 +16,14 @@
   position: relative;
   width: 100%;
   padding-bottom: 203.477897%;
-  margin-bottom: 0;
+  margin-bottom: 20px;
 }
 
 .device {
   position: absolute;
   top: 0;
   bottom: 0;
-  left: 1px;
+  left: 0;
   right: 0;
   width: 100%;
   height: 100%;
@@ -90,5 +83,8 @@
   -moz-user-select: none;
   -ms-user-select: none;
   user-select: none;
+}
+
+.owl-carousel.owl-theme.owl-loaded {
 }
 
