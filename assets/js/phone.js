@@ -10,3 +10,13 @@ $(document).ready(function(){
 
         });
 });
+$(document).ready(function(){
+  $.fancybox({
+            items: 6,
+            dots: true,
+            loop: true,
+        
+
+
+        });
+});

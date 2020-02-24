@@ -1,3 +1,10 @@
+.ig-embed {
+  height: 100%;
+  display: block;
+  width: 100%;
+  position: fixed;
+}
+
 .slider-nav {
   color: green;
 }
@@ -14,7 +21,7 @@
 
 .dm-device {
   position: relative;
-  width: 115%;
+  width: 100%;
   padding-bottom: 203.477897%;
   margin-bottom: 20px;
 }
@@ -23,13 +30,13 @@
   position: absolute;
   top: 0;
   bottom: 0;
-  left: 0;
+  left: 1px;
   right: 0;
   width: 100%;
   height: 100%;
   -webkit-background-size: 100% 100%;
   background-repeat: no-repeat;
-  background-image: url(../../assets/img/IGfilters/iphone2.png);
+  background-image: url(../../assets/img/IGfilters/iphone3.png);
   background-size: cover;
   background-position: center center;
 }
@@ -38,9 +45,9 @@
   overflow: hidden;
   position: absolute;
   top: 10.5%;
-  bottom: 22%;
-  left: 10%;
-  right: 16%;
+  bottom: 16%;
+  left: 9%;
+  right: 9%;
   background-color: #000000;
 }
 
