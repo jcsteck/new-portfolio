@@ -6,16 +6,21 @@ $(document).ready(function(){
             singleItem:true,
             dots: true,
             loop: true,
-        
+            animationEffect: "fade",
+            animationDuration: 366,
+            touch:true,
+
 
 
         });
 });
 $(document).ready(function(){
   $.fancybox({
-            items: 6,
-            dots: true,
-            loop: true,
+            arrows: false,
+            toolbar: false,
+            protect: true,
+            clickOutside: "close",
+      
         
 
 
